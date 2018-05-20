@@ -12,5 +12,5 @@ git push origin master
 * difference between `git pull` and `git fetch`
 ```
 NOTE: generally speaking
-git pull = get fecth + get merge
+git pull = git fecth + git merge
 ```
